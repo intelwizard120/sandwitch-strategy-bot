@@ -7,6 +7,6 @@ Installation: Clone the repository and install dependencies using npm install.
 
 Configuration: Customize the bot's trading parameters and strategies in the configuration file (configuration*.js).
 
-API Setup: Obtain API keys from your preferred cryptocurrency exchange and configure them in the uniswap*.js file for trading access.
+API Setup: Obtain API keys from your preferred cryptocurrency exchange and configure them in the uniswap*.json file for trading access.
 
 Start the Bot: Run the bot using npm start and monitor its performance through the console or integrated dashboard.
