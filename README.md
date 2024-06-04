@@ -1,4 +1,4 @@
-## Sandwich Crypto Trading Bot
+# Sandwich Crypto Trading Bot
 Welcome to Sandwich Crypto Trading Bot! This bot is designed to automate cryptocurrency trading by executing sandwich orders, a strategy involving placing both buy and sell orders around an existing position to capitalize on short-term price movements.
 
 ## Features
